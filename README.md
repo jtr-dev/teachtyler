@@ -18,7 +18,7 @@ Interests involve:
   - 🖼 Beautiful UI's & DX/UX 
   - 🗣 NLP & Linguistics
     - 📅 Neural Network Models
-  - 🎶🖼 Wallpaper-Engine (Audio Visualization Wallpapers)
+  - 🎶🖼 Audio Visualizers (Wallpaper-Engine)
   - 🎸 7/8 String Guitars
   - 🛹🏄‍ 🏂 🏎 
   
